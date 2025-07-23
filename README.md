@@ -5,7 +5,7 @@
 <h1 align="left">Tudo bem?</h1>
 <p>
 📚 Estudando: HTML+ CSS
-🥷🏿 Pronouns: ela/dela</p>
+🥷🏿 Pronouns: ele/dele</p>
 
 ###
 
